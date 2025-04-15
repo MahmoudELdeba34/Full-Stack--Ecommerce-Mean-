@@ -3,17 +3,7 @@
 **Exclusive** is a full-featured eCommerce web application developed using the **MEAN Stack** (MongoDB, Express.js, Angular, Node.js) during our training at the Information Technology Institute (**ITI**).  
 The platform offers a modern online shopping experience with secure user authentication, product management, filtering, search, cart features, and Stripe payment integration.
 
----
 
-## 👥 Team Members
-
-- Mahmoud Ahmed  
-- Mohamed ElTabi  
-- Bassem Atia  
-- Karem Mohamed  
-- Mohamed Aymen
-
----
 
 ## 🚀 Features
 
